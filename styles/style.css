@@ -33,12 +33,6 @@ img{
     margin: 5%;
     border-radius: 10px;
 }
-footer > p{
-    margin-left: 38%;
-    bottom: 0;
-    position: absolute;
-    color: hsl(220, 15%, 55%);
-}
 
 @media screen and (max-width: 740px) {
     .container h2{
@@ -53,12 +47,6 @@ footer > p{
         width: 60%;
         margin-left: 17%;
         margin-top: 10%;
-    }
-    footer > p{
-        font-size: 15px;
-        margin-left: 23%;
-        bottom: 0;
-        position:absolute;
     }   
 }
 
@@ -76,12 +64,6 @@ footer > p{
         margin-left: 17%;
         margin-top: 50%;
     }
-    footer > p{
-        font-size: 15px;
-        margin-left: 10%;
-        bottom: 0;
-        position:absolute;
-    }   
 }
 
 @media screen and (max-width: 375px) {
@@ -97,10 +79,4 @@ footer > p{
         margin-left: 11%;
         margin-top: 35%;
     }
-    footer > p{
-        font-size: 15px;
-        margin-left: 10%;
-        bottom: 0;
-        position:absolute;
-    }   
 }
